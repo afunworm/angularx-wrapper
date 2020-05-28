@@ -1,0 +1,30 @@
+{
+    "name": "angularx-wrapper",
+    "description": "Simple wrapper to create an elevated container using Angular Material",
+    "version": "0.0.1",
+    "contributors": [
+      {
+        "name": "Huy",
+        "email": "afunworm@gmail.com",
+        "web": "https://byh.uy/"
+      }
+    ],
+    "demos": [
+      "projects/angularx-timeline-demo"
+    ],
+    "licenses": [
+      {
+        "name": "MIT",
+        "url": "https://tldrlegal.com/license/mit-license"
+      }
+    ],
+    "peerDependencies": {
+      "@angular/common": "^9.1.9",
+      "@angular/core": "^9.1.9",
+      "@angular/material": "^9.2.4",
+      "lodash": "^4.17.15"
+    },
+    "dependencies": {
+      "tslib": "^1.10.0"
+    }
+  }
