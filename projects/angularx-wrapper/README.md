@@ -43,7 +43,7 @@ export class AppModule { }
 | Name                     | Type/Interface                         | Default | Description                                                                    |
 | ------------------------ | ---------------------------------------| ------- | ------------------------------------------------------------------------------ |
 | `@Input('ngxClass')`     | string &#124; string[]                 | []      | Custom class name(s) for the wrapper                                           |
-| `@Input('ngxStyle')`     | {}                                     | {}      | Just like ngStyle, this accept the styles for the wrapper                      |
+| `@Input('ngxStyle')`     | {}                                     | {}      | Just like ngStyle, this accepts the styles for the wrapper                     |
 | `@Input('elevation')`    | number (0 - 24)                        | 5       | Elevation level (the higher the number, the more elevated the wrapper appears) |
 | `@Input('width')`        | number &#124; string                   | '900px' | The wrapper's width                                                            |
 | `@Input('padding')`      | number &#124; string                   | '32px'  | Padding between the wrapper and its content                                    |
