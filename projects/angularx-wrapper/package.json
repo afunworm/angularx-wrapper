@@ -1,7 +1,7 @@
 {
     "name": "angularx-wrapper",
     "description": "Simple wrapper to create an elevated container using Angular Material",
-    "version": "0.0.1",
+    "version": "0.0.5",
     "contributors": [
       {
         "name": "Huy",
